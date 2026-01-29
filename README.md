@@ -1,3 +1,10 @@
+# 🎙️ Azure AI Speech: Reconhecimento e Síntese de Voz
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+[![Speech Services](https://img.shields.io/badge/Speech%20Services-0058AD?style=for-the-badge&logo=microsoft&logoColor=white)]()
+
+Exploração dos serviços de voz da Microsoft Azure. Neste projeto, implementei soluções de **Text-to-Speech** (texto para fala) e **Speech-to-Text** (fala para texto), ferramentas fundamentais para acessibilidade e automação de atendimento em Customer Experience.
+
 ## Análise de Sentimentos no Language Studios
 
 Recursos variados conseguimos obter através do Language Studios do Microsoft Azure, como a transcrição da fala em texto e o texto em fala audível e como veremos abaixo a Análise de Sentimentos com a extração de opniões sendo uma excelente ferramenta na obtenção de feedbacks dos clientes facilitando a visualização da empresa onde se é necessário uma melhora.
@@ -36,3 +43,24 @@ O texto inserido como teste nas avaliações foi um feedback de um cliente em re
 ![Resultado Frase 01](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision/assets/158849910/8d6e0ecd-c077-487d-a05c-f24854bc437a)
 
 ## Com este serviço conseguimos concluir que Empresas com um grande volume de dados a serem analisados conseguem otimizar tempo e de uma forma bem mais assertiva encontrar falhas ou implementar melhoras em seus serviços de forma muito mais ágil.
+
+## 📚 Outros Projetos de IA e Cloud (Microsoft Azure)
+
+Este repositório faz parte da minha trilha de especialização em Inteligência Artificial. Confira outros projetos realizados:
+
+* [**IA Generativa e Copilot**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) - Exploração de modelos de linguagem e prompts.
+* [**Cognitive Search**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive) - Mineração de conhecimento com busca inteligente.
+* [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
+* [**Azure Vision**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) - Análise de imagens e OCR.
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+---
+
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+
+## ✉️ Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
